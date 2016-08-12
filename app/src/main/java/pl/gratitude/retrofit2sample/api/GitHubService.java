@@ -1,4 +1,4 @@
-package pl.gratitude.retrofit2sample.services;
+package pl.gratitude.retrofit2sample.api;
 
 import pl.gratitude.retrofit2sample.models.User;
 import retrofit2.Call;

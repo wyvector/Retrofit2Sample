@@ -1,4 +1,5 @@
 <resources>
+    <string name="api_url">https://api.github.com/</string>
     <string name="app_name">Retrofit2Sample</string>
     <string name="action_settings">Settings</string>
     <string name="avatar_image_description">Avatar</string>
